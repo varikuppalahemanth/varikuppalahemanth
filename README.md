@@ -41,6 +41,7 @@ I'm a DevOps Engineer building hands-on experience across the cloud-native toolc
 
 ## 📫 Connect
 
+- LinkedIn: [hemanth-varikuppala](https://www.linkedin.com/in/hemanth-varikuppala/)
 - Instagram: [@v_hemanth_007](https://www.instagram.com/v_hemanth_007)
 - Facebook: [hemanth.varikuppala](https://www.facebook.com/hemanth.varikuppala)
 
